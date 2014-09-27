@@ -352,6 +352,7 @@ hr.space {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	width: 100%;
+	height:auto;
 }
 .read_more_link {
 	border: #f92264 1px solid;
